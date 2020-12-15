@@ -1,0 +1,7 @@
+organization=findorgri
+projectKey=boa
+serverUrl=https://sonarcloud.io
+serverVersion=8.5.0.37579
+dashboardUrl=https://sonarcloud.io/dashboard?id=boa
+ceTaskId=AXZhNpQEiMMXGAiWQtQk
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXZhNpQEiMMXGAiWQtQk
